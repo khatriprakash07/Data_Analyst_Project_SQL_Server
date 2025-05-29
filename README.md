@@ -9,7 +9,8 @@ Cohort Analysis is a data analysis technique used to group individuals (such as 
 **Process**
 - create  view table (virtual table/temporary table) called **client_revenue**
 - Used index to enhance the efficiency and speed of data retrieval in databases and other structured data formats
-- **Clustered Index** which is used when a column in the table has unique (distinct) values **(Primary Key)** where as **Nonclustered Index** can include additional non-key columns in a non-clustered index to avoid the need to navigate back to the base table for that data.
+- **Clustered Index** which is used when a column in the table has unique (distinct) values **(Primary Key)** where as **Nonclustered Index** can include additional non-key 
+  columns in a non-clustered index to avoid the need to navigate back to the base table for that data.
 - create **Cohort_Analysis** table on the basis of various year by calculating total revenue and grouped by customer key and year
 
 **Chart**
@@ -25,3 +26,11 @@ Cohort Analysis is a data analysis technique used to group individuals (such as 
 **Conclusion** 
 
 <img width="459" alt="Table" src="https://github.com/user-attachments/assets/992c8fcf-7b95-43c2-bca3-6d34cf06b98d" />
+
+
+
+
+
+**👥 Customer Segmentation Analysis**
+
+Customer segmentation is crucial for organizations because it enables more targeted, efficient, and personalized business strategies. 
