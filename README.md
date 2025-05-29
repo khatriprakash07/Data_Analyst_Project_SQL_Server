@@ -27,10 +27,19 @@ Cohort Analysis is a data analysis technique used to group individuals (such as 
 
 <img width="459" alt="Table" src="https://github.com/user-attachments/assets/992c8fcf-7b95-43c2-bca3-6d34cf06b98d" />
 
-
-
+## ##
 
 
 **👥 Customer Segmentation Analysis**
 
-Customer segmentation is crucial for organizations because it enables more targeted, efficient, and personalized business strategies. 
+Customer segmentation is crucial for organizations because it enables more targeted, efficient, and personalized business strategies.
+
+ **Overview**
+ 
+<img width="460" alt="seg" src="https://github.com/user-attachments/assets/5852c545-3213-4df9-a9dd-38cd90cd6844" />
+
+**Findings:**
+
+The chart shows that medium value client are more than high value client. The organization needs to identity behaviour, nedd and potential of medium value customer.
+Analyze purchas frequency, average order value, and engagement level.
+
