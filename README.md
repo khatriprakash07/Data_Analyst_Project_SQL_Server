@@ -2,8 +2,24 @@
 
 This repository serves as a Microsoft SQL Server based data analysis and reporting toolkit, focusing on:
 
+- Data import processing into SQL
+- Data Cleansing Process at different level (Bronze, Sliver, and Gold)
+- Abstract important data and create tables
+- Cohort Analysis || Customer Segmentation || Customer Churn
+- Use PowerBI for the data Visualization
+
+## ##
+
+**Data Importing and Cleansing**
+
+- Import data as it is
+- Use excel to make column template, declear source
+- Import data by using bulk insert, terminate signs
+- Trim spaces and set data type
+## ##
+
 **📊 Cohort Analysis**
-**Definition**
+
 Cohort Analysis is a data analysis technique used to group individuals (such as customers, users, or patients) who share a common characteristic or experience within a defined time frame — known as a cohort — and observe how their behavior changes over time. This method is widely used in marketing, product analytics, customer retention, and healthcare to track engagement, measure performance, and identify trends across different user groups.
 
 **Process**
@@ -43,3 +59,22 @@ Customer segmentation is crucial for organizations because it enables more targe
 The chart shows that medium value client are more than high value client. The organization needs to identity behaviour, nedd and potential of medium value customer.
 Analyze purchas frequency, average order value, and engagement level.
 
+## ##
+
+**📉 Customer Churn Analysis**
+**Objectives**
+The goal of this project is to:
+- Identify customers who have churned based on their last purchase date
+- Analyze churn trends by product model and customer behavior
+- Visualize insights using meaningful charts in Power BI
+- Recommend strategies for improving customer retention
+
+**Overview**
+
+<img width="453" alt="customer_status" src="https://github.com/user-attachments/assets/07a37d15-797d-4ae7-9d97-882afa94b82f" /> <img width="453" height="315" alt="top10" src="https://github.com/user-attachments/assets/aa244f2d-2dc9-4c03-ad75-410889621bd3" />
+
+**Findings**
+
+- 39.63% of churn and 60.37% are active customers
+- Cycling cap is in number one churned customer list with 512 customer number
+  
