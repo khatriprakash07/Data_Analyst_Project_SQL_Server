@@ -2,8 +2,24 @@
 
 This repository serves as a Microsoft SQL Server based data analysis and reporting toolkit, focusing on:
 
+- Data import processing into SQL
+- Data Cleansing Process at different level (Bronze, Sliver, and Gold)
+- Abstract important data and create tables
+- Cohort Analysis || Customer Segmentation || Customer Churn
+- Use PowerBI for the data Visualization
+
+## ##
+
+**Data Importing and Cleansing**
+
+- Import data as it is
+- Use excel to make column template, declear source
+- Import data by using bulk insert, terminate signs
+- Trim spaces and set data type
+## ##
+
 **📊 Cohort Analysis**
-**Definition**
+
 Cohort Analysis is a data analysis technique used to group individuals (such as customers, users, or patients) who share a common characteristic or experience within a defined time frame — known as a cohort — and observe how their behavior changes over time. This method is widely used in marketing, product analytics, customer retention, and healthcare to track engagement, measure performance, and identify trends across different user groups.
 
 **Process**
